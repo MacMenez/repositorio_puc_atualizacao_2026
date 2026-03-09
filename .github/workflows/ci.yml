@@ -1,0 +1,27 @@
+name: Repo Validation
+
+on:
+  push:
+    branches:
+      - "disciplina/**"
+
+jobs:
+
+  check:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v4
+
+      - name: Check structure
+        run: |
+
+          if [ ! -d exercicios ]; then
+            echo "Warning: exercicios folder missing"
+          fi
+
+          if [ ! -f README.md ]; then
+            echo "Warning: README missing"
+          fi

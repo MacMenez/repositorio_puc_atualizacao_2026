@@ -1,0 +1,126 @@
+#!/bin/bash
+
+set -e
+
+CMD=$1
+TYPE=$2
+NAME=$3
+
+function criar_disciplina() {
+
+BRANCH="disciplina/$NAME"
+
+git checkout main
+git pull origin main
+
+git checkout -b $BRANCH
+
+mkdir -p $NAME/{exercicios,projetos,schemas,anotacoes,referencias}
+
+cat <<EOF > $NAME/README.md
+# $NAME
+
+## Descrição
+Conteúdo da disciplina.
+
+## Estrutura
+
+exercicios/
+projetos/
+schemas/
+anotacoes/
+referencias/
+EOF
+
+git add .
+git commit -m "Inicializa disciplina $NAME"
+git push -u origin $BRANCH
+
+echo "Disciplina criada: $NAME"
+}
+
+function atualizar() {
+
+BRANCH="disciplina/$TYPE"
+
+git checkout $BRANCH
+git pull origin $BRANCH
+
+git add .
+
+echo "Mensagem do commit:"
+read MSG
+
+git commit -m "$MSG"
+
+git push
+}
+
+function listar() {
+
+echo "===== DISCIPLINAS ====="
+git branch -r | grep disciplina || true
+
+echo ""
+echo "===== PESQUISA ====="
+git branch -r | grep pesquisa || true
+
+echo ""
+echo "===== EVENTOS ====="
+git branch -r | grep eventos || true
+
+echo ""
+echo "===== MONITORIA ====="
+git branch -r | grep monitoria || true
+}
+
+function backup() {
+
+DATA=$(date +%Y-%m-%d-%H-%M)
+
+DEST="../backup-$DATA"
+
+cp -r . $DEST
+
+echo "Backup criado em $DEST"
+}
+
+case "$CMD" in
+
+criar)
+
+case "$TYPE" in
+
+disciplina)
+criar_disciplina
+;;
+
+*)
+echo "Tipo inválido"
+;;
+
+esac
+
+;;
+
+atualizar)
+atualizar
+;;
+
+listar)
+listar
+;;
+
+backup)
+backup
+;;
+
+*)
+echo "Uso:"
+echo "./scripts/puc criar disciplina nome"
+echo "./scripts/puc atualizar nome"
+echo "./scripts/puc listar"
+echo "./scripts/puc backup"
+;;
+
+esac
