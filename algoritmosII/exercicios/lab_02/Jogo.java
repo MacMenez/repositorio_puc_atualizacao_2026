@@ -103,6 +103,5 @@ public class Jogo {
     public void imprimir(){ MyIO.println(toString()); }
 
     @Override
-    public String toString() { return editora + "." + nome_jogo + "." + ano + "." + Vendas_Global + "."; }
+    public String toString() { return nome_jogo + "." + editora + "." + ano + "." + Vendas_Global + "."; }
 }
-
