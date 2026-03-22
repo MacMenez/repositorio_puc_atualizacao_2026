@@ -4,7 +4,7 @@ na entrada padrão (teclado - pub.in).
 A primeira linha contém a quantidade de jogos que devem ser armazenados em um vetor.
 Cada uma das linhas seguintes apresenta os dados de um jogo, separados pelo símbolo “;”. Os dados
 possuem, em ordem, as seguintes informações:
-• rank (int);
+• rank (int);v
 • nome do jogo (String);
 • plataforma (String);
 • ano (int);

@@ -11,8 +11,7 @@ public class Jogo {
     private double Outras_Vendas;
     private double Vendas_Global;
 
-    public Jogo() {
-    }
+    public Jogo() {}
 
     private Jogo(String nome_jogo, String plataforma, int ano) {
         this.nome_jogo = nome_jogo;
@@ -22,8 +21,7 @@ public class Jogo {
 
     public int getRank() { return rank; }
 
-    public void setRank(int rank) {
-        this.rank = rank; }
+    public void setRank(int rank) { this.rank = rank; }
 
     public String getNome_jogo() { return nome_jogo; }
 
@@ -103,5 +101,5 @@ public class Jogo {
     public void imprimir(){ MyIO.println(toString()); }
 
     @Override
-    public String toString() { return nome_jogo + "." + editora + "." + ano + "." + Vendas_Global + "."; }
+    public String toString() { return editora + ". " + nome_jogo + ". " + ano + ". Vendas global: " + Vendas_Global + ". "; }
 }
