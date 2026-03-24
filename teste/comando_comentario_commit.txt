@@ -1,0 +1,16 @@
+Para o arquivo de portifolio
+
+git add README.md
+git commit -m "feat: README profissional com dashboard"
+git push
+
+Para o arquivo de disciplinas
+
+git add docs/disciplinas.json
+git commit -m "Atualiza disciplinas completas"
+git push
+
+
+Para o arquivo de 
+Para o arquivo de 
+Para o arquivo de 
