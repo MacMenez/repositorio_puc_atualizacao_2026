@@ -1,0 +1,27 @@
+name: Atualizar Dashboard
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Instalar jq
+        run: sudo apt-get install -y jq
+
+      - name: Executar script
+        run: bash scripts/gerar-dashboard.sh
+
+      - name: Commit alterações
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add docs/disciplinas.md
+          git commit -m "Atualiza dashboard" || echo "Sem mudanças"
+          git push
