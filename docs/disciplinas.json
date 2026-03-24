@@ -1,0 +1,110 @@
+[
+  { "nome": "Algoritmos e Estruturas de Dados I", "status": "concluida" },
+  { "nome": "Algoritmos e Estruturas de Dados II", "status": "andamento" },
+  { "nome": "Algoritmos e Estruturas de Dados III", "status": "nao_iniciada" },
+  { "nome": "Algoritmos em Grafos", "status": "nao_iniciada" },
+
+  { "nome": "Arquitetura de Computadores I", "status": "concluida" },
+  { "nome": "Arquitetura de Computadores II", "status": "concluida" },
+  { "nome": "Arquitetura de Computadores III", "status": "concluida" },
+
+  { "nome": "Banco de Dados", "status": "concluida" },
+
+  { "nome": "Cálculo I", "status": "concluida" },
+  { "nome": "Cálculo II", "status": "concluida" },
+  { "nome": "Cálculo III", "status": "nao_iniciada" },
+
+  { "nome": "Cidades Inteligentes", "status": "concluida" },
+  { "nome": "Ciências do Ambiente", "status": "concluida" },
+
+  { "nome": "Compiladores", "status": "nao_iniciada" },
+  { "nome": "Computação Distribuída", "status": "nao_iniciada" },
+  { "nome": "Computação Gráfica", "status": "nao_iniciada" },
+  { "nome": "Computadores e Sociedade", "status": "andamento" },
+
+  { "nome": "Desenvolvimento de Interfaces Web", "status": "concluida" },
+
+  { "nome": "Eletrônica para Computação", "status": "nao_iniciada" },
+  { "nome": "Empreendedorismo e Inovação", "status": "nao_iniciada" },
+  { "nome": "Engenharia de Software", "status": "nao_iniciada" },
+
+  { "nome": "Estatística e Probabilidade", "status": "nao_iniciada" },
+  { "nome": "Estágio Obrigatório", "status": "nao_iniciada" },
+
+  { "nome": "Filosofia: Antropologia e Ética", "status": "concluida" },
+  { "nome": "Filosofia: Razão e Modernidade", "status": "concluida" },
+
+  { "nome": "Fundamentos de Física", "status": "concluida" },
+  { "nome": "Fundamentos de Geoprocessamento", "status": "nao_iniciada" },
+  { "nome": "Fundamentos de Mecânica", "status": "nao_iniciada" },
+  { "nome": "Fundamentos Teóricos da Computação", "status": "nao_iniciada" },
+
+  { "nome": "Game Design", "status": "concluida" },
+
+  { "nome": "Geometria Analítica e Álgebra Linear", "status": "nao_iniciada" },
+
+  { "nome": "Gerência de Projeto de Software", "status": "concluida" },
+  { "nome": "Gestão de Redes e Mídias Sociais", "status": "concluida" },
+
+  { "nome": "História e Cultura Afrobrasileira e Indígena", "status": "nao_iniciada" },
+
+  { "nome": "Inteligência Artificial", "status": "nao_iniciada" },
+
+  { "nome": "Internet das Coisas I", "status": "concluida" },
+  { "nome": "Internet das Coisas II", "status": "nao_iniciada" },
+
+  { "nome": "Introdução à Computação", "status": "concluida" },
+  { "nome": "Introdução aos Sistemas Inteligentes", "status": "concluida" },
+
+  { "nome": "Laboratório de Introdução à Engenharia de Computação", "status": "concluida" },
+  { "nome": "Laboratório de Desenvolvimento para Dispositivos Móveis", "status": "concluida" },
+  { "nome": "Laboratório de Física", "status": "nao_iniciada" },
+
+  { "nome": "Leitura de Textos em Língua Inglesa", "status": "nao_iniciada" },
+  { "nome": "Língua Brasileira de Sinais", "status": "nao_iniciada" },
+
+  { "nome": "Linguagens de Programação", "status": "nao_iniciada" },
+
+  { "nome": "Marketing de Serviços, Produtos e Preços", "status": "nao_iniciada" },
+
+  { "nome": "Matemática Financeira", "status": "concluida" },
+
+  { "nome": "Modelagem e Avaliação de Desempenho", "status": "nao_iniciada" },
+
+  { "nome": "Negociação e Tomada de Decisão", "status": "nao_iniciada" },
+
+  { "nome": "Otimização de Sistemas", "status": "nao_iniciada" },
+
+  { "nome": "Processamento e Análise de Imagens", "status": "nao_iniciada" },
+
+  { "nome": "Produção de Textos Acadêmicos", "status": "nao_iniciada" },
+  { "nome": "Produção de Vídeo Mobile", "status": "nao_iniciada" },
+
+  { "nome": "Projeto e Análise de Algoritmos", "status": "nao_iniciada" },
+  { "nome": "Projeto Integrado de Software e Hardware", "status": "nao_iniciada" },
+
+  { "nome": "Redes de Computadores I", "status": "nao_iniciada" },
+  { "nome": "Redes de Computadores II", "status": "nao_iniciada" },
+
+  { "nome": "Sistemas de Automação Industrial", "status": "nao_iniciada" },
+  { "nome": "Sistemas Dinâmicos e Controle de Processos", "status": "nao_iniciada" },
+  { "nome": "Sistemas Embarcados", "status": "nao_iniciada" },
+  { "nome": "Sistemas Inteligentes de Software e Hardware", "status": "nao_iniciada" },
+  { "nome": "Sistemas Operacionais", "status": "nao_iniciada" },
+
+  { "nome": "Sistemas Reconfiguráveis", "status": "concluida" },
+
+  { "nome": "Teoria de Circuitos Elétricos", "status": "nao_iniciada" },
+
+  { "nome": "Tópicos em Computação I", "status": "nao_iniciada" },
+  { "nome": "Tópicos em Computação II", "status": "nao_iniciada" },
+  { "nome": "Tópicos em Computação III", "status": "nao_iniciada" },
+  { "nome": "Tópicos em Sistemas de Informação", "status": "andamento" },
+
+  { "nome": "Trabalho de Conclusão de Curso I", "status": "nao_iniciada" },
+  { "nome": "Trabalho de Conclusão de Curso II", "status": "nao_iniciada" },
+  { "nome": "Trabalho de Diplomação II", "status": "nao_iniciada" },
+
+  { "nome": "Cultura Religiosa: Fenômeno Religioso", "status": "andamento" },
+  { "nome": "Cultura Religiosa: Pessoa e Sociedade", "status": "nao_iniciada" }
+]
