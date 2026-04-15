@@ -38,14 +38,33 @@ public class Lab_03 {
     // MyIO.readLine(); // MUITO IMPORTANTE
   }
 
-    private static int pesquisaSequencial(Jogo[] vetor_nao_ordem, String linha_lida) {
+    private static int pesquisaSequencial(Jogo[] vetor_nao_ordem, String chave) {
       int sequencial = 0;
+      for (int i = 0; i < vetor_nao_ordem.length; i++) {
+        sequencial++;
+        if (vetor_nao_ordem[i].getNome_jogo().equals(chave)) {
+            //Imprimir
+            i = vetor_nao_ordem.length;
+        }
+      }
       return sequencial;
     }
 
-    private static int pesquisaBinaria(Jogo[] vetor_ordem, String linha_lida) {
-      int binaria = 0;
+    private static int pesquisaBinaria(Jogo[] vetor_ordem, String chave) {
+      int binaria = 0, esquerda = 0, direita = vetor_ordem.length - 1, meio;
+      while (esquerda <= direita) {
+        meio = (esquerda + direita)/2;
+        String nome = vetor_ordem[meio].getNome_jogo();
+
+        binaria++;
+        if (nome.equals(chave)) {
+            esquerda = vetor_ordem.length;
+        }else if (chave.compareToIgnoreCase(nome) < 0) {/* chave é menor */
+            direita = meio -1;
+        } else {/* Palavra é maior */
+            esquerda = meio + 1;
+        }
+      }
       return binaria;
     }
-  
 }
