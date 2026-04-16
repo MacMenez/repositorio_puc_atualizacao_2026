@@ -1,4 +1,3 @@
-
 public class Lab_03 {
   public static void main(String[] args) {
     // Lê a quantidade de jogos
@@ -8,49 +7,61 @@ public class Lab_03 {
     Jogo[] vetor_nao_ordem = new Jogo[total_jogos]; // Cria o vetor com tamanho fixo
     Jogo[] vetor_ordem = new Jogo[total_jogos]; // Cria o vetor com tamanho fixo
 
-    Jogo dados_jogo = new Jogo(); // Objeto auxiliar para ler e imprimir jogos
     int indice_vetor = 0; // Índice para preencher o vetor
 
-    String linha_lida;
+    String linha_lida = MyIO.readLine();
 
     // Ler o vetor desordenado
-    while (!(linha_lida = MyIO.readLine()).equals("FIM")) {
-      dados_jogo.ler(linha_lida);
-      vetor_nao_ordem[indice_vetor] = dados_jogo.clone();
+    while (!linha_lida.equals("FIM")) {
+      vetor_nao_ordem[indice_vetor] = new Jogo();
+      vetor_nao_ordem[indice_vetor].ler(linha_lida);
+      indice_vetor++;
+      linha_lida = MyIO.readLine();
       // vetor_nao_ordem[indice_vetor].imprimir(); // Teste
     }
+    linha_lida = MyIO.readLine(); // Exclui o fim
 
-    // Ler o vetor ordenado
-    while (!(linha_lida = MyIO.readLine(linha_lida)).equals("FIM")) {
-      dados_jogo.ler(linha_lida);
-      vetor_ordem[indice_vetor] = dados_jogo.clone();
+    // MyIO.println(linha_lida);
+    // // Ler o vetor ordenado
+    indice_vetor = 0;
+    while (!linha_lida.equals("FIM")) {
+      vetor_ordem[indice_vetor] = new Jogo();
+      vetor_ordem[indice_vetor].ler(linha_lida);
+      indice_vetor++;
+      linha_lida = MyIO.readLine();
       // vetor_ordem[indice_vetor].imprimir(); // Teste
     }
 
-    // parte 2: Pesquisa de informações armazenadas no vetor criado na parte 1
+    // // parte 2: Pesquisa de informações armazenadas no vetor criado na parte 1
+    
+    indice_vetor = 0;
     linha_lida = MyIO.readLine();
-
-    while(!(linha_lida = MyIO.readLine()).equals("FIM")){
-      vetor_nao_ordem[indice_vetor].imprimir(); 
-      MyIO.print("Sequencial: " + pesquisaSequencial(vetor_nao_ordem, linha_lida) + ", binaria: " + pesquisaBinaria(vetor_ordem, linha_lida) + "\n");
+    while(!linha_lida.equals("FIM")){
+      pesquisaSequencial(vetor_nao_ordem, linha_lida);
+      pesquisaBinaria(vetor_ordem, linha_lida);
+      indice_vetor++;
+      linha_lida = MyIO.readLine();
+    //  MyIO.println(linha_lida);
+     // MyIO.println("TESTE");
     }
     
-    // MyIO.readLine(); // MUITO IMPORTANTE
+    
   }
 
-    private static int pesquisaSequencial(Jogo[] vetor_nao_ordem, String chave) {
+    private static void pesquisaSequencial(Jogo[] vetor_nao_ordem, String chave) {
       int sequencial = 0;
       for (int i = 0; i < vetor_nao_ordem.length; i++) {
         sequencial++;
         if (vetor_nao_ordem[i].getNome_jogo().equals(chave)) {
             //Imprimir
+            vetor_nao_ordem[i].imprimir();
+            MyIO.print("Sequencial: " + sequencial);
             i = vetor_nao_ordem.length;
         }
       }
-      return sequencial;
     }
 
-    private static int pesquisaBinaria(Jogo[] vetor_ordem, String chave) {
+    private static void pesquisaBinaria(Jogo[] vetor_ordem, String chave) {
       int binaria = 0, esquerda = 0, direita = vetor_ordem.length - 1, meio;
       while (esquerda <= direita) {
         meio = (esquerda + direita)/2;
@@ -58,13 +69,13 @@ public class Lab_03 {
 
         binaria++;
         if (nome.equals(chave)) {
-            esquerda = vetor_ordem.length;
+          MyIO.print(", binaria: " + binaria + "\n");
+          esquerda = vetor_ordem.length;
         }else if (chave.compareToIgnoreCase(nome) < 0) {/* chave é menor */
             direita = meio -1;
         } else {/* Palavra é maior */
             esquerda = meio + 1;
         }
       }
-      return binaria;
     }
 }
