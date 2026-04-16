@@ -148,6 +148,6 @@ public class Jogo {
 
    @Override
    public String toString() {
-      return nome_jogo + ". " + editora + ". " + ano + ". Vendas global: " + Vendas_Global + ". ";
+      return editora + ". " + nome_jogo + ". " + ano + ". Vendas global: " + Vendas_Global + ".  ";
    }
 }
