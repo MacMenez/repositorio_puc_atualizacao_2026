@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2/"
+     xml:base="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Acao -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Acao">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Genero"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Anime -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Anime">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Obra"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Autor -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Autor">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Criador"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Aventura -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Aventura">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Genero"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Comedia -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Comedia">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Genero"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Criador -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Criador">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Pessoa"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Desenvolvedor -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Desenvolvedor">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Criador"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Digital -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Digital">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Midia"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Diretor -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Diretor">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Criador"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Dublador -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Dublador">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Pessoa"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Editora -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Editora">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Organizacao"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Empresa -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Empresa">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Organizacao"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#EmpresaDeJogos -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#EmpresaDeJogos">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Empresa"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Estudio -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Estudio">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Organizacao"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Fisica -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Fisica">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Midia"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Genero -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Genero"/>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Ilustrador -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Ilustrador">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Criador"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Jogo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Jogo">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Obra"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#JogoArcade -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#JogoArcade">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Jogo"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#JogoConsole -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#JogoConsole">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#JogoDigital"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#JogoDigital -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#JogoDigital">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Jogo"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#JogoMobile -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#JogoMobile">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#JogoDigital"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Luta -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Luta">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Genero"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Manga -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Manga">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Obra"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Midia -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Midia"/>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Obra -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Obra"/>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Organizacao -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Organizacao"/>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Pessoa -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Pessoa"/>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#RPG -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#RPG">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Genero"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Romance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Romance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#Genero"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
+
