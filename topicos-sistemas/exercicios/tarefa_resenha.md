@@ -7,3 +7,5 @@ Descrever a ideia geral do artigo;
 Apresentar o problema estudado pelos autores no artigo e qual foi a solução proposta por eles para resolver este problema;
 Você conseguiu ter uma visão geral do problema abordado na literatura?
 De acordo com a sua opinião apresente os pontos fortes e fracos do artigo?
+
+[Resenha Desenvolvida](Resenha_Web_Semantica.pdf)
