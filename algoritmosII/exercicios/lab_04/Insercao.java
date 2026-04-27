@@ -1,42 +1,29 @@
-/**
- * Algoritmo de ordenacao por insercao
- * @author Max do Val Machado
- * @version 3 01/2020
- */
+import java.util.ArrayList;
 
 class Insercao {
 
-	/**
-	 * Construtor.
-	 */
-   public Insercao(){
-      super();
-   }
+   /**
+    * Algoritmo de ordenacao por insercao.
+    */
+   public void sort(ArrayList<Jogo> lista_jogos) {
+      int comparacao = 0;
+      int movimentacao = 0;
 
-
-	/**
-	 * Construtor.
-	 * @param int tamanho do array de numeros inteiros.
-	 */
-   public Insercao(int tamanho){
-      super(tamanho);
-   }
-
-
-	/**
-	 * Algoritmo de ordenacao por insercao.
-	 */
-   @Override
-   public void sort() {
-		for (int i = 1; i < n; i++) {
-			int tmp = array[i];
+      for (int i = 1; i < lista_jogos.size(); i++) {
+         Jogo tmp = lista_jogos.get(i);
          int j = i - 1;
 
-         while ((j >= 0) && (array[j] > tmp)) {
-            array[j + 1] = array[j];
+         while (j >= 0 && lista_jogos.get(j).compareTo(tmp) > 0) {
+            comparacao++;
+            lista_jogos.set(j + 1, lista_jogos.get(j));
+            movimentacao++;
             j--;
          }
-         array[j + 1] = tmp;
+
+         lista_jogos.set(j + 1, tmp);
+         movimentacao++;
       }
-	}
+
+      MyIO.println("## INSERTION [COMPARACOES] [" + comparacao + "] [MOVIMENTACOES] [" + movimentacao + "]");
+   }
 }
