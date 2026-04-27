@@ -129,27 +129,26 @@ public class Jogo {
       return clone_jogo;
    }
 
-   public Jogo clone(ArrayList<Jogo> lista_jogos) {
-      Jogo clone_jogo = new Jogo();
+   public ArrayList<Jogo> clone(ArrayList<Jogo> lista_encontrados) {
+      ArrayList<Jogo> lista_clone = new ArrayList<>();
+      
+      for (int i = 0; i < lista_encontrados.size(); i++) {
+         Jogo clone_jogo = new Jogo();
+         clone_jogo.rank = lista_encontrados.get(i).rank;
+         clone_jogo.nome_jogo = lista_encontrados.get(i).nome_jogo;
+         clone_jogo.plataforma = lista_encontrados.get(i).plataforma;
+         clone_jogo.ano = lista_encontrados.get(i).ano;
+         clone_jogo.genero = lista_encontrados.get(i).genero;
+         clone_jogo.editora = lista_encontrados.get(i).editora;
+         clone_jogo.NA_Vendas = lista_encontrados.get(i).NA_Vendas;
+         clone_jogo.EU_Vendas = lista_encontrados.get(i).EU_Vendas;
+         clone_jogo.JP_Vendas = lista_encontrados.get(i).JP_Vendas;
+         clone_jogo.Outras_Vendas = lista_encontrados.get(i).Outras_Vendas;
+         clone_jogo.Vendas_Global = lista_encontrados.get(i).Vendas_Global;
 
-      for (int i = 0; i < lista_jogos.size(); i++) {
-        
-         clone_jogo.rank = lista_jogos.get(i).rank;
-         clone_jogo.nome_jogo = lista_jogos.get(i).nome_jogo;
-         clone_jogo.plataforma = lista_jogos.get(i).plataforma;
-         clone_jogo.ano = lista_jogos.get(i).ano;
-         clone_jogo.genero = lista_jogos.get(i).genero;
-         clone_jogo.editora = lista_jogos.get(i).editora;
-         clone_jogo.NA_Vendas = lista_jogos.get(i).NA_Vendas;
-         clone_jogo.EU_Vendas = lista_jogos.get(i).EU_Vendas;
-         clone_jogo.JP_Vendas = lista_jogos.get(i).JP_Vendas;
-         clone_jogo.Outras_Vendas = lista_jogos.get(i).Outras_Vendas;
-         clone_jogo.Vendas_Global = lista_jogos.get(i).Vendas_Global;
-
-         return clone_jogo; // RETORNA AQUI?
+         lista_clone.add(clone_jogo);
       }
-      return clone_jogo; // OU RETORNA AQUI?
-      // return null;
+      return lista_clone; // Retorna a lista clonada
    }
 
    public void ler(String valor_lido) {
