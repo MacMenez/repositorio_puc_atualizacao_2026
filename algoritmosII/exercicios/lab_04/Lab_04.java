@@ -1,4 +1,3 @@
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class Lab_04 {
@@ -6,8 +5,11 @@ public class Lab_04 {
     public static void main(String[] args) {
 
         /* Parte 1 (Leitura de Arquivo): Armazenamento de informações contidos no arquivo jogos.txt em vetor */
+        
         // ArquivoTextoLeitura dados_jogos = new ArquivoTextoLeitura("C:\\Users\\1229176\\Downloads\\lab_04\\jogos.txt"); // Comentar para enviar
+        
         ArquivoTextoLeitura dados_jogos = new ArquivoTextoLeitura("jogos.txt"); // Comentar para enviar
+        
         // ArquivoTextoLeitura dados_jogos = new ArquivoTextoLeitura("/tmp/jogos.txt"); // Descomentar para enviar
 
         ArrayList<Jogo> lista_jogos = new ArrayList<>();
@@ -27,8 +29,8 @@ public class Lab_04 {
         int jogos_encontrados = 0;
 
         for (int i = 0; !(linha = MyIO.readLine()).equals("FIM"); i++) {
-            /* CORRIGIR FUNÇÃO */
-            lista_encontrados = pesquisar(linha, lista_jogos,lista_encontrados, jogos_encontrados);
+            /* CORRIGIR FUNÇÃO? */
+            pesquisar(linha, lista_jogos,lista_encontrados, jogos_encontrados);
         }
         /* 
             Quantidade de jogos lidos na entrada padrão (arquivo pub.in), 
@@ -37,16 +39,30 @@ public class Lab_04 {
         MyIO.println("Quantidade de jogos encontrados: " + jogos_encontrados);
 
         /* Parte 3: Ordenação do vetor armazenado na Parte 2. */
-        ArrayList<Jogo> bubblesortJogo = new ArrayList<>();
-        ArrayList<Jogo> selectionsortJogo = new ArrayList<>();
-        ArrayList<Jogo> insertionsortJogo = new ArrayList<>();
 
-        bubblesortJogo = lista_encontrados.clone();
-        selectionsortJogo = lista_encontrados.clone();
-        insertionsortJogo = lista_encontrados.clone();
+        /* Criar 3 clones */
+        ArrayList<Jogo> bubblesortJogo;
+        ArrayList<Jogo> selectionsortJogo;
+        ArrayList<Jogo> insertionsortJogo;
+
+        Jogo jogo = new Jogo();
+        bubblesortJogo = jogo.clone(lista_encontrados);
+        selectionsortJogo= jogo.clone(lista_encontrados);
+        insertionsortJogo = jogo.clone(lista_encontrados);
+
+        Bolha bubble_sort = new Bolha();
+        bubble_sort.sort(bubblesortJogo);
+        
+        Insercao insertion_sort = new Insercao();
+        insertion_sort.sort(insertionsortJogo);
+
+        Selecao selection_sort = new Selecao();
+        selection_sort.sort(selectionsortJogo);
     }
+
     public static ArrayList<Jogo> pesquisar(String linha, ArrayList<Jogo> lista_jogos, ArrayList<Jogo> lista_encontrados, int jogos_encontrados) {
         String dados_pesquisa[] = linha.split(";");
+
         String nome_jogo = dados_pesquisa[0];
         int ano = Integer.parseInt(dados_pesquisa[1]);
         String editora = dados_pesquisa[2];
