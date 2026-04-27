@@ -1,41 +1,44 @@
-/**
- * Algoritmo de ordenacao por selecao
- * @author Max do Val Machado
- * @version 3 08/2020
- */
+import java.util.ArrayList;
 
 class Selecao {
 
-	/**
-	 * Construtor.
-	 */
-	public Selecao(){
-		super();
-	}
+   /**
+    * Algoritmo de ordenacao por selecao.
+    */
+   public void sort(ArrayList<Jogo> lista_jogos) {
+      int comparacao = 0;
+      int movimentacao = 0;
 
+      for (int i = 0; i < lista_jogos.size() - 1; i++) {
+         int menor = i;
 
-	/**
-	 * Construtor.
-	 * @param int tamanho do array de numeros inteiros.
-	 */
-	public Selecao(int tamanho){
-		super(tamanho);
-	}
+         for (int j = (i + 1); j < lista_jogos.size(); j++) {
+            comparacao++;
+            if ((lista_jogos.get(menor).getNome_jogo()).compareTo(lista_jogos.get(j).getNome_jogo()) > 0) {
+               menor = j;
+            }
+         }
 
+         if (menor != i) {
+            swap(lista_jogos, menor, i);
+            movimentacao += 3;
+         }
+      }
+      
+      // IMPRESSÃO DA LISTA ORDENADA
+      for (int i = 0; i < lista_jogos.size(); i++) {
+         Jogo jogo = new Jogo();
+         lista_jogos.get(i).imprimir();
+      }
+      MyIO.println("## SELECTION [COMPARACOES] [" + comparacao + "] [MOVIMENTACOES] [" + movimentacao + "]");
+   }
 
-	/**
-	 * Algoritmo de ordenacao por selecao.
-	 */
-	@Override
-	public void sort() {
-		for (int i = 0; i < (n - 1); i++) {
-			int menor = i;
-			for (int j = (i + 1); j < n; j++){
-				if (array[menor] > array[j]){
-					menor = j;
-				}
-			}
-			swap(menor, i);
-		}
-	}
+   /**
+    * Troca o conteudo de duas posicoes do ArrayList
+    */
+   public void swap(ArrayList<Jogo> lista, int i, int j) {
+      Jogo temp = lista.get(i);
+      lista.set(i, lista.get(j));
+      lista.set(j, temp);
+   }
 }
