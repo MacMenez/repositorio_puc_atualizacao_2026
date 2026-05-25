@@ -1,0 +1,102 @@
+Consultas SPARQL — Ontologia Cultura Pop Japonesa v4
+
+Prefixos utilizados
+
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX pop: <http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#>
+
+
+---
+
+1. Listar instâncias em ordem alfabética de uma determinada classe
+
+Objetivo: Listar todas as instâncias da classe Anime em ordem alfabética.
+
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX pop: <http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#>
+
+SELECT DISTINCT ?anime
+WHERE {
+  ?anime rdf:type pop:Anime .
+}
+ORDER BY ?anime
+
+
+---
+
+2. Listar classes utilizando UNION
+
+Objetivo: Listar instâncias pertencentes às classes Anime e Manga utilizando UNION.
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX pop: <http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#>
+
+SELECT ?obra
+WHERE {
+  {
+    ?obra rdf:type pop:Anime .
+  }
+  UNION
+  {
+    ?obra rdf:type pop:Manga .
+  }
+}
+ORDER BY ?obra
+
+---
+
+3. Listar instâncias utilizando FILTER
+
+Objetivo: Listar jogos publicados após o ano 2000.
+
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX pop: <http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#>
+
+SELECT ?jogo ?ano
+WHERE {
+  ?jogo rdf:type pop:Jogo .
+  ?jogo pop:anoPublicacao ?ano .
+
+  FILTER(?ano > 2000)
+}
+ORDER BY ?ano
+
+---
+
+4. Listar classes utilizando propriedade de restrição
+
+Objetivo: Listar animes que possuem a propriedade temGenero associada ao gênero Acao.
+
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX pop: <http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#>
+
+SELECT ?anime
+WHERE {
+  ?anime rdf:type pop:Anime .
+  ?anime pop:temGenero pop:Acao .
+}
+ORDER BY ?anime
+
+---
+
+5. Listar instâncias utilizando FILTER e propriedade de restrição
+
+Objetivo: Listar mangás publicados após 1990 e que pertençam ao gênero Romance.
+
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX pop: <http://www.semanticweb.org/dcmen/ontologies/2026/2/untitled-ontology-2#>
+
+SELECT ?manga ?ano
+WHERE {
+  ?manga rdf:type pop:Manga .
+  ?manga pop:anoPublicacao ?ano .
+  ?manga pop:temGenero pop:Romance .
+
+  FILTER(?ano > 1990)
+}
+ORDER BY ?ano
