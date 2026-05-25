@@ -1,1 +1,408 @@
 Quantidade de jogos encontrados: 0
+[Agatha Christie: The ABC Murders] [PS3] [0.25] 6726. Action. Sega. Mais vendido: 0.25.
+[Batman: Arkham Asylum] [PS] [0.27] 6441. Sports. Tecmo Koei. Mais vendido: 0.27.
+[Blades of Time] [PS2] [0.09] 10974. Shooter. Eidos Interactive. Mais vendido: 0.09.
+[Blood Omen: Legacy of Kain] [PSP] [0.03] 14677. Adventure. Yeti. Mais vendido: 0.03.
+[Cabela's Survival: Shadows of Katmai] [PS2] [0.39] 4942. Action. Eidos Interactive. Mais vendido: 0.39.
+[Call of Duty: Modern Warfare 2] [PS3] [10.69] 56. Shooter. Activision. Mais vendido: 10.69.
+[Catwoman] [DS] [0.18] 8099. Simulation. Disney Interactive Studios. Mais vendido: 0.18.
+[Champion Jockey: G1 Jockey & Gallop Racer] [PS] [3.39] 394. Misc. Sony Computer Entertainment. Mais vendido: 3.39.
+[Clubhouse Games] [GC] [0.14] 9052. Simulation. Nintendo. Mais vendido: 0.14.
+[Code Geass: Hangyaku no Lelouch - Lost Colors] [PS3] [0.01] 16039. Misc. Aqua Plus. Mais vendido: 0.01.
+[Codename Tenka] [XB] [0.02] 14926. Racing. Jaleco. Mais vendido: 0.02.
+[Cooking Mama 4: Kitchen Magic!] [DS] [0.02] 15059. Platform. N/A. Mais vendido: 0.02.
+[Dakar 2: The World's Ultimate Rally] [PC] [0.06] 12752. Role-Playing. JoWood Productions. Mais vendido: 0.06.
+[Damnation] [Wii] [0.05] 13388. Action. Take-Two Interactive. Mais vendido: 0.05.
+[Deadly Arts] [PS2] [0.17] 8387. Sports. Sony Computer Entertainment. Mais vendido: 0.17.
+[DJ Star] [DS] [0.02] 15736. Misc. Deep Silver. Mais vendido: 0.02.
+[Dora the Explorer: Game Boy Advance Video Volume 1] [DS] [0.16] 8637. Misc. Ubisoft. Mais vendido: 0.16.
+[Dragon Quest IX: Sentinels of the Starry Skies] [X360] [0.45] 4337. Sports. Take-Two Interactive. Mais vendido: 0.45.
+[DS Nishimura Kyotaro Suspense Shin Tantei Series: Kyoto Atami Zekkai no Kotou - Satsui no Wana] [Wii] [0.12] 9910. Shooter. Reef Entertainment. Mais vendido: 0.12.
+[Epic Mickey 2: The Power of Two] [PS4] [0.54] 3713. Action. Capcom. Mais vendido: 0.54.
+[ESPN College Hoops 2K5] [XB] [0.38] 4990. Sports. Sega. Mais vendido: 0.38.
+[Etrian Odyssey IV: Legends of the Titans] [PS2] [0.18] 8139. Strategy. Eidos Interactive. Mais vendido: 0.18.
+[F1 ROC: Race of Champions] [PS2] [0.02] 15139. Fighting. Namco Bandai Games. Mais vendido: 0.02.
+[Far Cry 2] [PSV] [0.12] 9902. Action. Ubisoft. Mais vendido: 0.12.
+[Fight Night Round 2] [Wii] [0.23] 7060. Puzzle. Capcom. Mais vendido: 0.23.
+[Fire Emblem: Monsh? no Nazo] [PS3] [0.99] 2092. Action. Disney Interactive Studios. Mais vendido: 0.99.
+[Forza Motorsport 3] [DS] [0.04] 13482. Misc. 505 Games. Mais vendido: 0.04.
+[Game & Wario] [Wii] [0.44] 4488. Misc. Ubisoft. Mais vendido: 0.44.
+[Garou Densetsu 3: Road to the Final Victory] [PS3] [0.24] 6877. Action. Namco Bandai Games. Mais vendido: 0.24.
+[Gekijouban Madoka Magicka: The Battle Pentagram] [PC] [0.98] 2108. Shooter. Ubisoft. Mais vendido: 0.98.
+[Generator Rex: Agent of Providence] [X360] [0.06] 12386. Action. Activision. Mais vendido: 0.06.
+[Get Fit with Mel B] [PSV] [0.02] 15355. Action. Idea Factory. Mais vendido: 0.02.
+[Ginga Tetsudou 999 DS] [WiiU] [0.4] 4854. Sports. Nintendo. Mais vendido: 0.4.
+[Grand Kingdom] [DS] [0.03] 14600. Adventure. Level 5. Mais vendido: 0.03.
+[Hammerin' Hero] [Wii] [0.06] 12759. Sports. Avanquest. Mais vendido: 0.06.
+[High Velocity: Mountain Racing Challenge] [DC] [0.22] 7252. Fighting. Virgin Interactive. Mais vendido: 0.22.
+[Hysteria Hospital: Emergency Ward] [X360] [0.36] 5189. Action. Activision. Mais vendido: 0.36.
+[Imagine: Party Babyz] [XB] [0.09] 10912. Misc. Crave Entertainment. Mais vendido: 0.09.
+[Indiana Jones and the Staff of Kings] [PSP] [0.71] 2888. Action. Warner Bros Interactive Entertainment. Mais vendido: 0.71.
+[Jake Hunter Detective Story: Memories of the Past] [XB] [0.1] 10571. Action. Activision. Mais vendido: 0.1.
+[James Bond 007: Agent Under Fire] [X360] [2.58] 595. Action. Take-Two Interactive. Mais vendido: 2.58.
+[Jet Li: Rise to Honor] [PS2] [1.27] 1568. Action. Sony Computer Entertainment. Mais vendido: 1.27.
+[Karaoke Revolution Party] [PS2] [0.2] 7543. Fighting. Ignition Entertainment. Mais vendido: 0.2.
+[Katekyoo Hitman Reborn! DS Fate of Heat III - Yuki no Shugosha Raishuu!] [GC] [0.44] 4479. Adventure. Nintendo. Mais vendido: 0.44.
+[Ken to Mahou to Gakuen Mono 3] [PSV] [0.02] 15956. Action. Namco Bandai Games. Mais vendido: 0.02.
+[Left Brain Right Brain: Use Both Hands Train Both Sides] [PC] [0.04] 14030. Strategy. Ubisoft. Mais vendido: 0.04.
+[LEGO Indiana Jones 2: The Adventure Continues] [PS2] [1.66] 1102. Sports. Electronic Arts. Mais vendido: 1.66.
+[Madden NFL 10] [PS2] [0.28] 6245. Sports. Acclaim Entertainment. Mais vendido: 0.28.
+[Mass Effect Trilogy] [PS2] [0.03] 14317. Simulation. Konami Digital Entertainment. Mais vendido: 0.03.
+[Maze Craze: A Game of Cops 'n Robbers] [3DS] [0.2] 7546. Fighting. Nintendo. Mais vendido: 0.2.
+[Mega Man Powered Up] [DS] [0.11] 10078. Adventure. PQube. Mais vendido: 0.11.
+[Microsoft Flight Simulator X] [GC] [1.69] 1072. Action. Capcom. Mais vendido: 1.69.
+[Monster Rancher Hop-A-Bout] [PS2] [0.04] 13462. Fighting. SNK Playmore. Mais vendido: 0.04.
+[Motto! SoniComi] [PSP] [0.32] 5583. Fighting. Namco Bandai Games. Mais vendido: 0.32.
+[Naruto Shippuden: Ultimate Ninja Storm 2] [PSP] [0.01] 16593. Role-Playing. Falcom Corporation. Mais vendido: 0.01.
+[Naruto: Ninja Council 2 European Version] [PS2] [0.11] 10239. Sports. Xicat Interactive. Mais vendido: 0.11.
+[NBA Live 08] [PC] [0.02] 15177. Role-Playing. Paradox Interactive. Mais vendido: 0.02.
+[NBA Live 2000] [PC] [1.95] 876. Shooter. LucasArts. Mais vendido: 1.95.
+[NCAA Football 2005] [Wii] [0.89] 2352. Shooter. Activision. Mais vendido: 0.89.
+[NFL Blitz] [XB] [0.71] 2874. Adventure. Microsoft Game Studios. Mais vendido: 0.71.
+[NHL 16] [X360] [0.16] 8632. Misc. Ubisoft. Mais vendido: 0.16.
+[Nintendogs + cats] [PS] [0.81] 2555. Puzzle. Atari. Mais vendido: 0.81.
+[NPPL: Championship Paintball 2009] [PC] [0.15] 8930. Racing. Codemasters. Mais vendido: 0.15.
+[Pro Yaky? Spirits 5] [DS] [0.08] 11614. Adventure. Square Enix. Mais vendido: 0.08.
+[Pro Yakyuu Family Stadium] [PS2] [1.86] 930. Misc. Sony Computer Entertainment. Mais vendido: 1.86.
+[Puzzle de Harvest Moon] [PS] [0.89] 2341. Simulation. Sony Computer Entertainment. Mais vendido: 0.89.
+[Record of Agarest War Zero] [PSV] [0.02] 15160. Action. Unknown. Mais vendido: 0.02.
+[Red Dead Redemption: Undead Nightmare] [X360] [3.5] 376. Action. Eidos Interactive. Mais vendido: 3.5.
+[Reel Fishing II] [X360] [0.13] 9647. Shooter. D3Publisher. Mais vendido: 0.13.
+[Resident Evil 3: Nemesis] [PS] [3.72] 333. Action. Eidos Interactive. Mais vendido: 3.72.
+[Rise of the Tomb Raider] [Wii] [0.23] 7014. Strategy. THQ. Mais vendido: 0.23.
+[Rogue Ops] [PS2] [0.23] 7130. Action. Kemco. Mais vendido: 0.23.
+[Scooby-Doo! and the Spooky Swamp] [NES] [2.2] 739. Sports. Namco Bandai Games. Mais vendido: 2.2.
+[Shadow of the Colossus] [PS3] [0.04] 13810. Action. Sony Computer Entertainment. Mais vendido: 0.04.
+[Shin Kamaitachi no Yoru: 11 Hitome no Suspect] [GC] [0.05] 12870. Action. Eidos Interactive. Mais vendido: 0.05.
+[Shiren the Wanderer 4 - God's Eye and the Demon's Navel] [XB] [0.44] 4424. Role-Playing. Activision. Mais vendido: 0.44.
+[Shonen Jump's One Piece: Grand Adventure] [PS2] [1.48] 1285. Fighting. Electronic Arts. Mais vendido: 1.48.
+[Simple DS Series Vol 41: The Bakudan Shori-Han] [DS] [0.09] 11016. Misc. Sega. Mais vendido: 0.09.
+[Skate 3] [Wii] [28.62] 9. Platform. Nintendo. Mais vendido: 28.62.
+[Skylanders: Trap Team] [3DS] [0.26] 6510. Action. Activision. Mais vendido: 0.26.
+[Slayers Royal 2] [Wii] [2.2] 740. Platform. Sega. Mais vendido: 2.2.
+[SpongeBob SquarePants: Lights, Camera, Pants!] [PS2] [2.22] 728. Action. Ubisoft. Mais vendido: 2.22.
+[Star Wars Starfighter: Special Edition] [PS3] [0.7] 2904. Sports. Sega. Mais vendido: 0.7.
+[Star Wars: Dark Forces] [PSP] [0.25] 6642. Misc. Sega. Mais vendido: 0.25.
+[Stuart Little 2] [GBA] [0.46] 4245. Platform. Activision. Mais vendido: 0.46.
+[Summer Heat Beach Volleyball] [DS] [0.01] 16487. Misc. UFO Interactive. Mais vendido: 0.01.
+[Super Mario Bros: The Lost Levels] [PS3] [0.29] 5979. Action. Tecmo Koei. Mais vendido: 0.29.
+[Syndicate] [PC] [0.02] 15125. Action. Konami Digital Entertainment. Mais vendido: 0.02.
+[Tales of Innocence R] [PSV] [0.1] 10688. Role-Playing. Namco Bandai Games. Mais vendido: 0.1.
+[Tear Ring Saga Yutona Eiyuu Senki] [Wii] [0.41] 4724. Misc. THQ. Mais vendido: 0.41.
+[The Naked Brothers Band: The Video Game] [X360] [0.9] 2325. Sports. THQ. Mais vendido: 0.9.
+[Tiger Woods PGA Tour 08] [PS3] [0.74] 2777. Racing. Activision. Mais vendido: 0.74.
+[Tiger Woods PGA Tour 09] [PC] [0.08] 11468. Simulation. Electronic Arts. Mais vendido: 0.08.
+[Transformers: Revenge of the Fallen (XBox 360, PS3, & PC Versions)] [PC] [0.19] 7951. Shooter. Activision. Mais vendido: 0.19.
+[UEFA Champions League 2006-2007] [Wii] [0.43] 4525. Sports. Electronic Arts. Mais vendido: 0.43.
+[Utawarerumono: Futari no Hakuoro] [PS] [0.08] 11677. Simulation. Psygnosis. Mais vendido: 0.08.
+[Warriors Orochi] [PC] [0.26] 6594. Simulation. Ubisoft. Mais vendido: 0.26.
+[Worldwide Soccer Manager 2009] [2600] [0.34] 5397. Action. 20th Century Fox Video Games. Mais vendido: 0.34.
+[Worms World Party] [PC] [0.01] 16580. Shooter. Codemasters. Mais vendido: 0.01.
+[Zoids Dash] [PC] [0.04] 13565. Racing. Electronic Arts. Mais vendido: 0.04.
+[Zoo Hospital] [DS] [0.04] 13935. Simulation. Eidos Interactive. Mais vendido: 0.04.
+## 	BUBBLE [COMPARACOES] [10100] [MOVIMENTACOES] [7944]
+[Zoo Hospital] [DS] [0.04] 13935. Simulation. Eidos Interactive. Mais vendido: 0.04.
+[Zoids Dash] [PC] [0.04] 13565. Racing. Electronic Arts. Mais vendido: 0.04.
+[Worms World Party] [PC] [0.01] 16580. Shooter. Codemasters. Mais vendido: 0.01.
+[Worldwide Soccer Manager 2009] [2600] [0.34] 5397. Action. 20th Century Fox Video Games. Mais vendido: 0.34.
+[Warriors Orochi] [PC] [0.26] 6594. Simulation. Ubisoft. Mais vendido: 0.26.
+[Utawarerumono: Futari no Hakuoro] [PS] [0.08] 11677. Simulation. Psygnosis. Mais vendido: 0.08.
+[UEFA Champions League 2006-2007] [Wii] [0.43] 4525. Sports. Electronic Arts. Mais vendido: 0.43.
+[Transformers: Revenge of the Fallen (XBox 360, PS3, & PC Versions)] [PC] [0.19] 7951. Shooter. Activision. Mais vendido: 0.19.
+[Tiger Woods PGA Tour 09] [PC] [0.08] 11468. Simulation. Electronic Arts. Mais vendido: 0.08.
+[Tiger Woods PGA Tour 08] [PS3] [0.74] 2777. Racing. Activision. Mais vendido: 0.74.
+[The Naked Brothers Band: The Video Game] [X360] [0.9] 2325. Sports. THQ. Mais vendido: 0.9.
+[Tear Ring Saga Yutona Eiyuu Senki] [Wii] [0.41] 4724. Misc. THQ. Mais vendido: 0.41.
+[Tales of Innocence R] [PSV] [0.1] 10688. Role-Playing. Namco Bandai Games. Mais vendido: 0.1.
+[Syndicate] [PC] [0.02] 15125. Action. Konami Digital Entertainment. Mais vendido: 0.02.
+[Super Mario Bros: The Lost Levels] [PS3] [0.29] 5979. Action. Tecmo Koei. Mais vendido: 0.29.
+[Summer Heat Beach Volleyball] [DS] [0.01] 16487. Misc. UFO Interactive. Mais vendido: 0.01.
+[Stuart Little 2] [GBA] [0.46] 4245. Platform. Activision. Mais vendido: 0.46.
+[Star Wars: Dark Forces] [PSP] [0.25] 6642. Misc. Sega. Mais vendido: 0.25.
+[Star Wars Starfighter: Special Edition] [PS3] [0.7] 2904. Sports. Sega. Mais vendido: 0.7.
+[SpongeBob SquarePants: Lights, Camera, Pants!] [PS2] [2.22] 728. Action. Ubisoft. Mais vendido: 2.22.
+[Slayers Royal 2] [Wii] [2.2] 740. Platform. Sega. Mais vendido: 2.2.
+[Skylanders: Trap Team] [3DS] [0.26] 6510. Action. Activision. Mais vendido: 0.26.
+[Skate 3] [Wii] [28.62] 9. Platform. Nintendo. Mais vendido: 28.62.
+[Simple DS Series Vol 41: The Bakudan Shori-Han] [DS] [0.09] 11016. Misc. Sega. Mais vendido: 0.09.
+[Shonen Jump's One Piece: Grand Adventure] [PS2] [1.48] 1285. Fighting. Electronic Arts. Mais vendido: 1.48.
+[Shiren the Wanderer 4 - God's Eye and the Demon's Navel] [XB] [0.44] 4424. Role-Playing. Activision. Mais vendido: 0.44.
+[Shin Kamaitachi no Yoru: 11 Hitome no Suspect] [GC] [0.05] 12870. Action. Eidos Interactive. Mais vendido: 0.05.
+[Shadow of the Colossus] [PS3] [0.04] 13810. Action. Sony Computer Entertainment. Mais vendido: 0.04.
+[Scooby-Doo! and the Spooky Swamp] [NES] [2.2] 739. Sports. Namco Bandai Games. Mais vendido: 2.2.
+[Rogue Ops] [PS2] [0.23] 7130. Action. Kemco. Mais vendido: 0.23.
+[Rise of the Tomb Raider] [Wii] [0.23] 7014. Strategy. THQ. Mais vendido: 0.23.
+[Resident Evil 3: Nemesis] [PS] [3.72] 333. Action. Eidos Interactive. Mais vendido: 3.72.
+[Reel Fishing II] [X360] [0.13] 9647. Shooter. D3Publisher. Mais vendido: 0.13.
+[Red Dead Redemption: Undead Nightmare] [X360] [3.5] 376. Action. Eidos Interactive. Mais vendido: 3.5.
+[Record of Agarest War Zero] [PSV] [0.02] 15160. Action. Unknown. Mais vendido: 0.02.
+[Puzzle de Harvest Moon] [PS] [0.89] 2341. Simulation. Sony Computer Entertainment. Mais vendido: 0.89.
+[Pro Yakyuu Family Stadium] [PS2] [1.86] 930. Misc. Sony Computer Entertainment. Mais vendido: 1.86.
+[Pro Yaky? Spirits 5] [DS] [0.08] 11614. Adventure. Square Enix. Mais vendido: 0.08.
+[NPPL: Championship Paintball 2009] [PC] [0.15] 8930. Racing. Codemasters. Mais vendido: 0.15.
+[Nintendogs + cats] [PS] [0.81] 2555. Puzzle. Atari. Mais vendido: 0.81.
+[NHL 16] [X360] [0.16] 8632. Misc. Ubisoft. Mais vendido: 0.16.
+[NFL Blitz] [XB] [0.71] 2874. Adventure. Microsoft Game Studios. Mais vendido: 0.71.
+[NCAA Football 2005] [Wii] [0.89] 2352. Shooter. Activision. Mais vendido: 0.89.
+[NBA Live 2000] [PC] [1.95] 876. Shooter. LucasArts. Mais vendido: 1.95.
+[NBA Live 08] [PC] [0.02] 15177. Role-Playing. Paradox Interactive. Mais vendido: 0.02.
+[Naruto: Ninja Council 2 European Version] [PS2] [0.11] 10239. Sports. Xicat Interactive. Mais vendido: 0.11.
+[Naruto Shippuden: Ultimate Ninja Storm 2] [PSP] [0.01] 16593. Role-Playing. Falcom Corporation. Mais vendido: 0.01.
+[Motto! SoniComi] [PSP] [0.32] 5583. Fighting. Namco Bandai Games. Mais vendido: 0.32.
+[Monster Rancher Hop-A-Bout] [PS2] [0.04] 13462. Fighting. SNK Playmore. Mais vendido: 0.04.
+[Microsoft Flight Simulator X] [GC] [1.69] 1072. Action. Capcom. Mais vendido: 1.69.
+[Mega Man Powered Up] [DS] [0.11] 10078. Adventure. PQube. Mais vendido: 0.11.
+[Maze Craze: A Game of Cops 'n Robbers] [3DS] [0.2] 7546. Fighting. Nintendo. Mais vendido: 0.2.
+[Mass Effect Trilogy] [PS2] [0.03] 14317. Simulation. Konami Digital Entertainment. Mais vendido: 0.03.
+[Madden NFL 10] [PS2] [0.28] 6245. Sports. Acclaim Entertainment. Mais vendido: 0.28.
+[LEGO Indiana Jones 2: The Adventure Continues] [PS2] [1.66] 1102. Sports. Electronic Arts. Mais vendido: 1.66.
+[Left Brain Right Brain: Use Both Hands Train Both Sides] [PC] [0.04] 14030. Strategy. Ubisoft. Mais vendido: 0.04.
+[Ken to Mahou to Gakuen Mono 3] [PSV] [0.02] 15956. Action. Namco Bandai Games. Mais vendido: 0.02.
+[Katekyoo Hitman Reborn! DS Fate of Heat III - Yuki no Shugosha Raishuu!] [GC] [0.44] 4479. Adventure. Nintendo. Mais vendido: 0.44.
+[Karaoke Revolution Party] [PS2] [0.2] 7543. Fighting. Ignition Entertainment. Mais vendido: 0.2.
+[Jet Li: Rise to Honor] [PS2] [1.27] 1568. Action. Sony Computer Entertainment. Mais vendido: 1.27.
+[James Bond 007: Agent Under Fire] [X360] [2.58] 595. Action. Take-Two Interactive. Mais vendido: 2.58.
+[Jake Hunter Detective Story: Memories of the Past] [XB] [0.1] 10571. Action. Activision. Mais vendido: 0.1.
+[Indiana Jones and the Staff of Kings] [PSP] [0.71] 2888. Action. Warner Bros Interactive Entertainment. Mais vendido: 0.71.
+[Imagine: Party Babyz] [XB] [0.09] 10912. Misc. Crave Entertainment. Mais vendido: 0.09.
+[Hysteria Hospital: Emergency Ward] [X360] [0.36] 5189. Action. Activision. Mais vendido: 0.36.
+[High Velocity: Mountain Racing Challenge] [DC] [0.22] 7252. Fighting. Virgin Interactive. Mais vendido: 0.22.
+[Hammerin' Hero] [Wii] [0.06] 12759. Sports. Avanquest. Mais vendido: 0.06.
+[Grand Kingdom] [DS] [0.03] 14600. Adventure. Level 5. Mais vendido: 0.03.
+[Ginga Tetsudou 999 DS] [WiiU] [0.4] 4854. Sports. Nintendo. Mais vendido: 0.4.
+[Get Fit with Mel B] [PSV] [0.02] 15355. Action. Idea Factory. Mais vendido: 0.02.
+[Generator Rex: Agent of Providence] [X360] [0.06] 12386. Action. Activision. Mais vendido: 0.06.
+[Gekijouban Madoka Magicka: The Battle Pentagram] [PC] [0.98] 2108. Shooter. Ubisoft. Mais vendido: 0.98.
+[Garou Densetsu 3: Road to the Final Victory] [PS3] [0.24] 6877. Action. Namco Bandai Games. Mais vendido: 0.24.
+[Game & Wario] [Wii] [0.44] 4488. Misc. Ubisoft. Mais vendido: 0.44.
+[Forza Motorsport 3] [DS] [0.04] 13482. Misc. 505 Games. Mais vendido: 0.04.
+[Fire Emblem: Monsh? no Nazo] [PS3] [0.99] 2092. Action. Disney Interactive Studios. Mais vendido: 0.99.
+[Fight Night Round 2] [Wii] [0.23] 7060. Puzzle. Capcom. Mais vendido: 0.23.
+[Far Cry 2] [PSV] [0.12] 9902. Action. Ubisoft. Mais vendido: 0.12.
+[F1 ROC: Race of Champions] [PS2] [0.02] 15139. Fighting. Namco Bandai Games. Mais vendido: 0.02.
+[Etrian Odyssey IV: Legends of the Titans] [PS2] [0.18] 8139. Strategy. Eidos Interactive. Mais vendido: 0.18.
+[ESPN College Hoops 2K5] [XB] [0.38] 4990. Sports. Sega. Mais vendido: 0.38.
+[Epic Mickey 2: The Power of Two] [PS4] [0.54] 3713. Action. Capcom. Mais vendido: 0.54.
+[DS Nishimura Kyotaro Suspense Shin Tantei Series: Kyoto Atami Zekkai no Kotou - Satsui no Wana] [Wii] [0.12] 9910. Shooter. Reef Entertainment. Mais vendido: 0.12.
+[Dragon Quest IX: Sentinels of the Starry Skies] [X360] [0.45] 4337. Sports. Take-Two Interactive. Mais vendido: 0.45.
+[Dora the Explorer: Game Boy Advance Video Volume 1] [DS] [0.16] 8637. Misc. Ubisoft. Mais vendido: 0.16.
+[DJ Star] [DS] [0.02] 15736. Misc. Deep Silver. Mais vendido: 0.02.
+[Deadly Arts] [PS2] [0.17] 8387. Sports. Sony Computer Entertainment. Mais vendido: 0.17.
+[Damnation] [Wii] [0.05] 13388. Action. Take-Two Interactive. Mais vendido: 0.05.
+[Dakar 2: The World's Ultimate Rally] [PC] [0.06] 12752. Role-Playing. JoWood Productions. Mais vendido: 0.06.
+[Cooking Mama 4: Kitchen Magic!] [DS] [0.02] 15059. Platform. N/A. Mais vendido: 0.02.
+[Codename Tenka] [XB] [0.02] 14926. Racing. Jaleco. Mais vendido: 0.02.
+[Code Geass: Hangyaku no Lelouch - Lost Colors] [PS3] [0.01] 16039. Misc. Aqua Plus. Mais vendido: 0.01.
+[Clubhouse Games] [GC] [0.14] 9052. Simulation. Nintendo. Mais vendido: 0.14.
+[Champion Jockey: G1 Jockey & Gallop Racer] [PS] [3.39] 394. Misc. Sony Computer Entertainment. Mais vendido: 3.39.
+[Catwoman] [DS] [0.18] 8099. Simulation. Disney Interactive Studios. Mais vendido: 0.18.
+[Call of Duty: Modern Warfare 2] [PS3] [10.69] 56. Shooter. Activision. Mais vendido: 10.69.
+[Cabela's Survival: Shadows of Katmai] [PS2] [0.39] 4942. Action. Eidos Interactive. Mais vendido: 0.39.
+[Blood Omen: Legacy of Kain] [PSP] [0.03] 14677. Adventure. Yeti. Mais vendido: 0.03.
+[Blades of Time] [PS2] [0.09] 10974. Shooter. Eidos Interactive. Mais vendido: 0.09.
+[Batman: Arkham Asylum] [PS] [0.27] 6441. Sports. Tecmo Koei. Mais vendido: 0.27.
+[Agatha Christie: The ABC Murders] [PS3] [0.25] 6726. Action. Sega. Mais vendido: 0.25.
+## INSERTION [COMPARACOES] [2494] [MOVIMENTACOES] [2494]
+[Agatha Christie: The ABC Murders] [PS3] [0.25] 6726. Action. Sega. Mais vendido: 0.25.
+[Batman: Arkham Asylum] [PS] [0.27] 6441. Sports. Tecmo Koei. Mais vendido: 0.27.
+[Blades of Time] [PS2] [0.09] 10974. Shooter. Eidos Interactive. Mais vendido: 0.09.
+[Blood Omen: Legacy of Kain] [PSP] [0.03] 14677. Adventure. Yeti. Mais vendido: 0.03.
+[Cabela's Survival: Shadows of Katmai] [PS2] [0.39] 4942. Action. Eidos Interactive. Mais vendido: 0.39.
+[Call of Duty: Modern Warfare 2] [PS3] [10.69] 56. Shooter. Activision. Mais vendido: 10.69.
+[Catwoman] [DS] [0.18] 8099. Simulation. Disney Interactive Studios. Mais vendido: 0.18.
+[Champion Jockey: G1 Jockey & Gallop Racer] [PS] [3.39] 394. Misc. Sony Computer Entertainment. Mais vendido: 3.39.
+[Clubhouse Games] [GC] [0.14] 9052. Simulation. Nintendo. Mais vendido: 0.14.
+[Code Geass: Hangyaku no Lelouch - Lost Colors] [PS3] [0.01] 16039. Misc. Aqua Plus. Mais vendido: 0.01.
+[Codename Tenka] [XB] [0.02] 14926. Racing. Jaleco. Mais vendido: 0.02.
+[Cooking Mama 4: Kitchen Magic!] [DS] [0.02] 15059. Platform. N/A. Mais vendido: 0.02.
+[Dakar 2: The World's Ultimate Rally] [PC] [0.06] 12752. Role-Playing. JoWood Productions. Mais vendido: 0.06.
+[Damnation] [Wii] [0.05] 13388. Action. Take-Two Interactive. Mais vendido: 0.05.
+[Deadly Arts] [PS2] [0.17] 8387. Sports. Sony Computer Entertainment. Mais vendido: 0.17.
+[DJ Star] [DS] [0.02] 15736. Misc. Deep Silver. Mais vendido: 0.02.
+[Dora the Explorer: Game Boy Advance Video Volume 1] [DS] [0.16] 8637. Misc. Ubisoft. Mais vendido: 0.16.
+[Dragon Quest IX: Sentinels of the Starry Skies] [X360] [0.45] 4337. Sports. Take-Two Interactive. Mais vendido: 0.45.
+[DS Nishimura Kyotaro Suspense Shin Tantei Series: Kyoto Atami Zekkai no Kotou - Satsui no Wana] [Wii] [0.12] 9910. Shooter. Reef Entertainment. Mais vendido: 0.12.
+[Epic Mickey 2: The Power of Two] [PS4] [0.54] 3713. Action. Capcom. Mais vendido: 0.54.
+[ESPN College Hoops 2K5] [XB] [0.38] 4990. Sports. Sega. Mais vendido: 0.38.
+[Etrian Odyssey IV: Legends of the Titans] [PS2] [0.18] 8139. Strategy. Eidos Interactive. Mais vendido: 0.18.
+[F1 ROC: Race of Champions] [PS2] [0.02] 15139. Fighting. Namco Bandai Games. Mais vendido: 0.02.
+[Far Cry 2] [PSV] [0.12] 9902. Action. Ubisoft. Mais vendido: 0.12.
+[Fight Night Round 2] [Wii] [0.23] 7060. Puzzle. Capcom. Mais vendido: 0.23.
+[Fire Emblem: Monsh? no Nazo] [PS3] [0.99] 2092. Action. Disney Interactive Studios. Mais vendido: 0.99.
+[Forza Motorsport 3] [DS] [0.04] 13482. Misc. 505 Games. Mais vendido: 0.04.
+[Game & Wario] [Wii] [0.44] 4488. Misc. Ubisoft. Mais vendido: 0.44.
+[Garou Densetsu 3: Road to the Final Victory] [PS3] [0.24] 6877. Action. Namco Bandai Games. Mais vendido: 0.24.
+[Gekijouban Madoka Magicka: The Battle Pentagram] [PC] [0.98] 2108. Shooter. Ubisoft. Mais vendido: 0.98.
+[Generator Rex: Agent of Providence] [X360] [0.06] 12386. Action. Activision. Mais vendido: 0.06.
+[Get Fit with Mel B] [PSV] [0.02] 15355. Action. Idea Factory. Mais vendido: 0.02.
+[Ginga Tetsudou 999 DS] [WiiU] [0.4] 4854. Sports. Nintendo. Mais vendido: 0.4.
+[Grand Kingdom] [DS] [0.03] 14600. Adventure. Level 5. Mais vendido: 0.03.
+[Hammerin' Hero] [Wii] [0.06] 12759. Sports. Avanquest. Mais vendido: 0.06.
+[High Velocity: Mountain Racing Challenge] [DC] [0.22] 7252. Fighting. Virgin Interactive. Mais vendido: 0.22.
+[Hysteria Hospital: Emergency Ward] [X360] [0.36] 5189. Action. Activision. Mais vendido: 0.36.
+[Imagine: Party Babyz] [XB] [0.09] 10912. Misc. Crave Entertainment. Mais vendido: 0.09.
+[Indiana Jones and the Staff of Kings] [PSP] [0.71] 2888. Action. Warner Bros Interactive Entertainment. Mais vendido: 0.71.
+[Jake Hunter Detective Story: Memories of the Past] [XB] [0.1] 10571. Action. Activision. Mais vendido: 0.1.
+[James Bond 007: Agent Under Fire] [X360] [2.58] 595. Action. Take-Two Interactive. Mais vendido: 2.58.
+[Jet Li: Rise to Honor] [PS2] [1.27] 1568. Action. Sony Computer Entertainment. Mais vendido: 1.27.
+[Karaoke Revolution Party] [PS2] [0.2] 7543. Fighting. Ignition Entertainment. Mais vendido: 0.2.
+[Katekyoo Hitman Reborn! DS Fate of Heat III - Yuki no Shugosha Raishuu!] [GC] [0.44] 4479. Adventure. Nintendo. Mais vendido: 0.44.
+[Ken to Mahou to Gakuen Mono 3] [PSV] [0.02] 15956. Action. Namco Bandai Games. Mais vendido: 0.02.
+[Left Brain Right Brain: Use Both Hands Train Both Sides] [PC] [0.04] 14030. Strategy. Ubisoft. Mais vendido: 0.04.
+[LEGO Indiana Jones 2: The Adventure Continues] [PS2] [1.66] 1102. Sports. Electronic Arts. Mais vendido: 1.66.
+[Madden NFL 10] [PS2] [0.28] 6245. Sports. Acclaim Entertainment. Mais vendido: 0.28.
+[Mass Effect Trilogy] [PS2] [0.03] 14317. Simulation. Konami Digital Entertainment. Mais vendido: 0.03.
+[Maze Craze: A Game of Cops 'n Robbers] [3DS] [0.2] 7546. Fighting. Nintendo. Mais vendido: 0.2.
+[Mega Man Powered Up] [DS] [0.11] 10078. Adventure. PQube. Mais vendido: 0.11.
+[Microsoft Flight Simulator X] [GC] [1.69] 1072. Action. Capcom. Mais vendido: 1.69.
+[Monster Rancher Hop-A-Bout] [PS2] [0.04] 13462. Fighting. SNK Playmore. Mais vendido: 0.04.
+[Motto! SoniComi] [PSP] [0.32] 5583. Fighting. Namco Bandai Games. Mais vendido: 0.32.
+[Naruto Shippuden: Ultimate Ninja Storm 2] [PSP] [0.01] 16593. Role-Playing. Falcom Corporation. Mais vendido: 0.01.
+[Naruto: Ninja Council 2 European Version] [PS2] [0.11] 10239. Sports. Xicat Interactive. Mais vendido: 0.11.
+[NBA Live 08] [PC] [0.02] 15177. Role-Playing. Paradox Interactive. Mais vendido: 0.02.
+[NBA Live 2000] [PC] [1.95] 876. Shooter. LucasArts. Mais vendido: 1.95.
+[NCAA Football 2005] [Wii] [0.89] 2352. Shooter. Activision. Mais vendido: 0.89.
+[NFL Blitz] [XB] [0.71] 2874. Adventure. Microsoft Game Studios. Mais vendido: 0.71.
+[NHL 16] [X360] [0.16] 8632. Misc. Ubisoft. Mais vendido: 0.16.
+[Nintendogs + cats] [PS] [0.81] 2555. Puzzle. Atari. Mais vendido: 0.81.
+[NPPL: Championship Paintball 2009] [PC] [0.15] 8930. Racing. Codemasters. Mais vendido: 0.15.
+[Pro Yaky? Spirits 5] [DS] [0.08] 11614. Adventure. Square Enix. Mais vendido: 0.08.
+[Pro Yakyuu Family Stadium] [PS2] [1.86] 930. Misc. Sony Computer Entertainment. Mais vendido: 1.86.
+[Puzzle de Harvest Moon] [PS] [0.89] 2341. Simulation. Sony Computer Entertainment. Mais vendido: 0.89.
+[Record of Agarest War Zero] [PSV] [0.02] 15160. Action. Unknown. Mais vendido: 0.02.
+[Red Dead Redemption: Undead Nightmare] [X360] [3.5] 376. Action. Eidos Interactive. Mais vendido: 3.5.
+[Reel Fishing II] [X360] [0.13] 9647. Shooter. D3Publisher. Mais vendido: 0.13.
+[Resident Evil 3: Nemesis] [PS] [3.72] 333. Action. Eidos Interactive. Mais vendido: 3.72.
+[Rise of the Tomb Raider] [Wii] [0.23] 7014. Strategy. THQ. Mais vendido: 0.23.
+[Rogue Ops] [PS2] [0.23] 7130. Action. Kemco. Mais vendido: 0.23.
+[Scooby-Doo! and the Spooky Swamp] [NES] [2.2] 739. Sports. Namco Bandai Games. Mais vendido: 2.2.
+[Shadow of the Colossus] [PS3] [0.04] 13810. Action. Sony Computer Entertainment. Mais vendido: 0.04.
+[Shin Kamaitachi no Yoru: 11 Hitome no Suspect] [GC] [0.05] 12870. Action. Eidos Interactive. Mais vendido: 0.05.
+[Shiren the Wanderer 4 - God's Eye and the Demon's Navel] [XB] [0.44] 4424. Role-Playing. Activision. Mais vendido: 0.44.
+[Shonen Jump's One Piece: Grand Adventure] [PS2] [1.48] 1285. Fighting. Electronic Arts. Mais vendido: 1.48.
+[Simple DS Series Vol 41: The Bakudan Shori-Han] [DS] [0.09] 11016. Misc. Sega. Mais vendido: 0.09.
+[Skate 3] [Wii] [28.62] 9. Platform. Nintendo. Mais vendido: 28.62.
+[Skylanders: Trap Team] [3DS] [0.26] 6510. Action. Activision. Mais vendido: 0.26.
+[Slayers Royal 2] [Wii] [2.2] 740. Platform. Sega. Mais vendido: 2.2.
+[SpongeBob SquarePants: Lights, Camera, Pants!] [PS2] [2.22] 728. Action. Ubisoft. Mais vendido: 2.22.
+[Star Wars Starfighter: Special Edition] [PS3] [0.7] 2904. Sports. Sega. Mais vendido: 0.7.
+[Star Wars: Dark Forces] [PSP] [0.25] 6642. Misc. Sega. Mais vendido: 0.25.
+[Stuart Little 2] [GBA] [0.46] 4245. Platform. Activision. Mais vendido: 0.46.
+[Summer Heat Beach Volleyball] [DS] [0.01] 16487. Misc. UFO Interactive. Mais vendido: 0.01.
+[Super Mario Bros: The Lost Levels] [PS3] [0.29] 5979. Action. Tecmo Koei. Mais vendido: 0.29.
+[Syndicate] [PC] [0.02] 15125. Action. Konami Digital Entertainment. Mais vendido: 0.02.
+[Tales of Innocence R] [PSV] [0.1] 10688. Role-Playing. Namco Bandai Games. Mais vendido: 0.1.
+[Tear Ring Saga Yutona Eiyuu Senki] [Wii] [0.41] 4724. Misc. THQ. Mais vendido: 0.41.
+[The Naked Brothers Band: The Video Game] [X360] [0.9] 2325. Sports. THQ. Mais vendido: 0.9.
+[Tiger Woods PGA Tour 08] [PS3] [0.74] 2777. Racing. Activision. Mais vendido: 0.74.
+[Tiger Woods PGA Tour 09] [PC] [0.08] 11468. Simulation. Electronic Arts. Mais vendido: 0.08.
+[Transformers: Revenge of the Fallen (XBox 360, PS3, & PC Versions)] [PC] [0.19] 7951. Shooter. Activision. Mais vendido: 0.19.
+[UEFA Champions League 2006-2007] [Wii] [0.43] 4525. Sports. Electronic Arts. Mais vendido: 0.43.
+[Utawarerumono: Futari no Hakuoro] [PS] [0.08] 11677. Simulation. Psygnosis. Mais vendido: 0.08.
+[Warriors Orochi] [PC] [0.26] 6594. Simulation. Ubisoft. Mais vendido: 0.26.
+[Worldwide Soccer Manager 2009] [2600] [0.34] 5397. Action. 20th Century Fox Video Games. Mais vendido: 0.34.
+[Worms World Party] [PC] [0.01] 16580. Shooter. Codemasters. Mais vendido: 0.01.
+[Zoids Dash] [PC] [0.04] 13565. Racing. Electronic Arts. Mais vendido: 0.04.
+[Zoo Hospital] [DS] [0.04] 13935. Simulation. Eidos Interactive. Mais vendido: 0.04.
+## SELECTION [COMPARACOES] [10100] [MOVIMENTACOES] [282]
+[Zoo Hospital] [DS] [0.04] 13935. Simulation. Eidos Interactive. Mais vendido: 0.04.
+[Zoids Dash] [PC] [0.04] 13565. Racing. Electronic Arts. Mais vendido: 0.04.
+[Worms World Party] [PC] [0.01] 16580. Shooter. Codemasters. Mais vendido: 0.01.
+[Worldwide Soccer Manager 2009] [2600] [0.34] 5397. Action. 20th Century Fox Video Games. Mais vendido: 0.34.
+[Warriors Orochi] [PC] [0.26] 6594. Simulation. Ubisoft. Mais vendido: 0.26.
+[Utawarerumono: Futari no Hakuoro] [PS] [0.08] 11677. Simulation. Psygnosis. Mais vendido: 0.08.
+[UEFA Champions League 2006-2007] [Wii] [0.43] 4525. Sports. Electronic Arts. Mais vendido: 0.43.
+[Transformers: Revenge of the Fallen (XBox 360, PS3, & PC Versions)] [PC] [0.19] 7951. Shooter. Activision. Mais vendido: 0.19.
+[Tiger Woods PGA Tour 09] [PC] [0.08] 11468. Simulation. Electronic Arts. Mais vendido: 0.08.
+[Tiger Woods PGA Tour 08] [PS3] [0.74] 2777. Racing. Activision. Mais vendido: 0.74.
+[The Naked Brothers Band: The Video Game] [X360] [0.9] 2325. Sports. THQ. Mais vendido: 0.9.
+[Tear Ring Saga Yutona Eiyuu Senki] [Wii] [0.41] 4724. Misc. THQ. Mais vendido: 0.41.
+[Tales of Innocence R] [PSV] [0.1] 10688. Role-Playing. Namco Bandai Games. Mais vendido: 0.1.
+[Syndicate] [PC] [0.02] 15125. Action. Konami Digital Entertainment. Mais vendido: 0.02.
+[Super Mario Bros: The Lost Levels] [PS3] [0.29] 5979. Action. Tecmo Koei. Mais vendido: 0.29.
+[Summer Heat Beach Volleyball] [DS] [0.01] 16487. Misc. UFO Interactive. Mais vendido: 0.01.
+[Stuart Little 2] [GBA] [0.46] 4245. Platform. Activision. Mais vendido: 0.46.
+[Star Wars: Dark Forces] [PSP] [0.25] 6642. Misc. Sega. Mais vendido: 0.25.
+[Star Wars Starfighter: Special Edition] [PS3] [0.7] 2904. Sports. Sega. Mais vendido: 0.7.
+[SpongeBob SquarePants: Lights, Camera, Pants!] [PS2] [2.22] 728. Action. Ubisoft. Mais vendido: 2.22.
+[Slayers Royal 2] [Wii] [2.2] 740. Platform. Sega. Mais vendido: 2.2.
+[Skylanders: Trap Team] [3DS] [0.26] 6510. Action. Activision. Mais vendido: 0.26.
+[Skate 3] [Wii] [28.62] 9. Platform. Nintendo. Mais vendido: 28.62.
+[Simple DS Series Vol 41: The Bakudan Shori-Han] [DS] [0.09] 11016. Misc. Sega. Mais vendido: 0.09.
+[Shonen Jump's One Piece: Grand Adventure] [PS2] [1.48] 1285. Fighting. Electronic Arts. Mais vendido: 1.48.
+[Shiren the Wanderer 4 - God's Eye and the Demon's Navel] [XB] [0.44] 4424. Role-Playing. Activision. Mais vendido: 0.44.
+[Shin Kamaitachi no Yoru: 11 Hitome no Suspect] [GC] [0.05] 12870. Action. Eidos Interactive. Mais vendido: 0.05.
+[Shadow of the Colossus] [PS3] [0.04] 13810. Action. Sony Computer Entertainment. Mais vendido: 0.04.
+[Scooby-Doo! and the Spooky Swamp] [NES] [2.2] 739. Sports. Namco Bandai Games. Mais vendido: 2.2.
+[Rogue Ops] [PS2] [0.23] 7130. Action. Kemco. Mais vendido: 0.23.
+[Rise of the Tomb Raider] [Wii] [0.23] 7014. Strategy. THQ. Mais vendido: 0.23.
+[Resident Evil 3: Nemesis] [PS] [3.72] 333. Action. Eidos Interactive. Mais vendido: 3.72.
+[Reel Fishing II] [X360] [0.13] 9647. Shooter. D3Publisher. Mais vendido: 0.13.
+[Red Dead Redemption: Undead Nightmare] [X360] [3.5] 376. Action. Eidos Interactive. Mais vendido: 3.5.
+[Record of Agarest War Zero] [PSV] [0.02] 15160. Action. Unknown. Mais vendido: 0.02.
+[Puzzle de Harvest Moon] [PS] [0.89] 2341. Simulation. Sony Computer Entertainment. Mais vendido: 0.89.
+[Pro Yakyuu Family Stadium] [PS2] [1.86] 930. Misc. Sony Computer Entertainment. Mais vendido: 1.86.
+[Pro Yaky? Spirits 5] [DS] [0.08] 11614. Adventure. Square Enix. Mais vendido: 0.08.
+[NPPL: Championship Paintball 2009] [PC] [0.15] 8930. Racing. Codemasters. Mais vendido: 0.15.
+[Nintendogs + cats] [PS] [0.81] 2555. Puzzle. Atari. Mais vendido: 0.81.
+[NHL 16] [X360] [0.16] 8632. Misc. Ubisoft. Mais vendido: 0.16.
+[NFL Blitz] [XB] [0.71] 2874. Adventure. Microsoft Game Studios. Mais vendido: 0.71.
+[NCAA Football 2005] [Wii] [0.89] 2352. Shooter. Activision. Mais vendido: 0.89.
+[NBA Live 2000] [PC] [1.95] 876. Shooter. LucasArts. Mais vendido: 1.95.
+[NBA Live 08] [PC] [0.02] 15177. Role-Playing. Paradox Interactive. Mais vendido: 0.02.
+[Naruto: Ninja Council 2 European Version] [PS2] [0.11] 10239. Sports. Xicat Interactive. Mais vendido: 0.11.
+[Naruto Shippuden: Ultimate Ninja Storm 2] [PSP] [0.01] 16593. Role-Playing. Falcom Corporation. Mais vendido: 0.01.
+[Motto! SoniComi] [PSP] [0.32] 5583. Fighting. Namco Bandai Games. Mais vendido: 0.32.
+[Monster Rancher Hop-A-Bout] [PS2] [0.04] 13462. Fighting. SNK Playmore. Mais vendido: 0.04.
+[Microsoft Flight Simulator X] [GC] [1.69] 1072. Action. Capcom. Mais vendido: 1.69.
+[Mega Man Powered Up] [DS] [0.11] 10078. Adventure. PQube. Mais vendido: 0.11.
+[Maze Craze: A Game of Cops 'n Robbers] [3DS] [0.2] 7546. Fighting. Nintendo. Mais vendido: 0.2.
+[Mass Effect Trilogy] [PS2] [0.03] 14317. Simulation. Konami Digital Entertainment. Mais vendido: 0.03.
+[Madden NFL 10] [PS2] [0.28] 6245. Sports. Acclaim Entertainment. Mais vendido: 0.28.
+[LEGO Indiana Jones 2: The Adventure Continues] [PS2] [1.66] 1102. Sports. Electronic Arts. Mais vendido: 1.66.
+[Left Brain Right Brain: Use Both Hands Train Both Sides] [PC] [0.04] 14030. Strategy. Ubisoft. Mais vendido: 0.04.
+[Ken to Mahou to Gakuen Mono 3] [PSV] [0.02] 15956. Action. Namco Bandai Games. Mais vendido: 0.02.
+[Katekyoo Hitman Reborn! DS Fate of Heat III - Yuki no Shugosha Raishuu!] [GC] [0.44] 4479. Adventure. Nintendo. Mais vendido: 0.44.
+[Karaoke Revolution Party] [PS2] [0.2] 7543. Fighting. Ignition Entertainment. Mais vendido: 0.2.
+[Jet Li: Rise to Honor] [PS2] [1.27] 1568. Action. Sony Computer Entertainment. Mais vendido: 1.27.
+[James Bond 007: Agent Under Fire] [X360] [2.58] 595. Action. Take-Two Interactive. Mais vendido: 2.58.
+[Jake Hunter Detective Story: Memories of the Past] [XB] [0.1] 10571. Action. Activision. Mais vendido: 0.1.
+[Indiana Jones and the Staff of Kings] [PSP] [0.71] 2888. Action. Warner Bros Interactive Entertainment. Mais vendido: 0.71.
+[Imagine: Party Babyz] [XB] [0.09] 10912. Misc. Crave Entertainment. Mais vendido: 0.09.
+[Hysteria Hospital: Emergency Ward] [X360] [0.36] 5189. Action. Activision. Mais vendido: 0.36.
+[High Velocity: Mountain Racing Challenge] [DC] [0.22] 7252. Fighting. Virgin Interactive. Mais vendido: 0.22.
+[Hammerin' Hero] [Wii] [0.06] 12759. Sports. Avanquest. Mais vendido: 0.06.
+[Grand Kingdom] [DS] [0.03] 14600. Adventure. Level 5. Mais vendido: 0.03.
+[Ginga Tetsudou 999 DS] [WiiU] [0.4] 4854. Sports. Nintendo. Mais vendido: 0.4.
+[Get Fit with Mel B] [PSV] [0.02] 15355. Action. Idea Factory. Mais vendido: 0.02.
+[Generator Rex: Agent of Providence] [X360] [0.06] 12386. Action. Activision. Mais vendido: 0.06.
+[Gekijouban Madoka Magicka: The Battle Pentagram] [PC] [0.98] 2108. Shooter. Ubisoft. Mais vendido: 0.98.
+[Garou Densetsu 3: Road to the Final Victory] [PS3] [0.24] 6877. Action. Namco Bandai Games. Mais vendido: 0.24.
+[Game & Wario] [Wii] [0.44] 4488. Misc. Ubisoft. Mais vendido: 0.44.
+[Forza Motorsport 3] [DS] [0.04] 13482. Misc. 505 Games. Mais vendido: 0.04.
+[Fire Emblem: Monsh? no Nazo] [PS3] [0.99] 2092. Action. Disney Interactive Studios. Mais vendido: 0.99.
+[Fight Night Round 2] [Wii] [0.23] 7060. Puzzle. Capcom. Mais vendido: 0.23.
+[Far Cry 2] [PSV] [0.12] 9902. Action. Ubisoft. Mais vendido: 0.12.
+[F1 ROC: Race of Champions] [PS2] [0.02] 15139. Fighting. Namco Bandai Games. Mais vendido: 0.02.
+[Etrian Odyssey IV: Legends of the Titans] [PS2] [0.18] 8139. Strategy. Eidos Interactive. Mais vendido: 0.18.
+[ESPN College Hoops 2K5] [XB] [0.38] 4990. Sports. Sega. Mais vendido: 0.38.
+[Epic Mickey 2: The Power of Two] [PS4] [0.54] 3713. Action. Capcom. Mais vendido: 0.54.
+[DS Nishimura Kyotaro Suspense Shin Tantei Series: Kyoto Atami Zekkai no Kotou - Satsui no Wana] [Wii] [0.12] 9910. Shooter. Reef Entertainment. Mais vendido: 0.12.
+[Dragon Quest IX: Sentinels of the Starry Skies] [X360] [0.45] 4337. Sports. Take-Two Interactive. Mais vendido: 0.45.
+[Dora the Explorer: Game Boy Advance Video Volume 1] [DS] [0.16] 8637. Misc. Ubisoft. Mais vendido: 0.16.
+[DJ Star] [DS] [0.02] 15736. Misc. Deep Silver. Mais vendido: 0.02.
+[Deadly Arts] [PS2] [0.17] 8387. Sports. Sony Computer Entertainment. Mais vendido: 0.17.
+[Damnation] [Wii] [0.05] 13388. Action. Take-Two Interactive. Mais vendido: 0.05.
+[Dakar 2: The World's Ultimate Rally] [PC] [0.06] 12752. Role-Playing. JoWood Productions. Mais vendido: 0.06.
+[Cooking Mama 4: Kitchen Magic!] [DS] [0.02] 15059. Platform. N/A. Mais vendido: 0.02.
+[Codename Tenka] [XB] [0.02] 14926. Racing. Jaleco. Mais vendido: 0.02.
+[Code Geass: Hangyaku no Lelouch - Lost Colors] [PS3] [0.01] 16039. Misc. Aqua Plus. Mais vendido: 0.01.
+[Clubhouse Games] [GC] [0.14] 9052. Simulation. Nintendo. Mais vendido: 0.14.
+[Champion Jockey: G1 Jockey & Gallop Racer] [PS] [3.39] 394. Misc. Sony Computer Entertainment. Mais vendido: 3.39.
+[Catwoman] [DS] [0.18] 8099. Simulation. Disney Interactive Studios. Mais vendido: 0.18.
+[Call of Duty: Modern Warfare 2] [PS3] [10.69] 56. Shooter. Activision. Mais vendido: 10.69.
+[Cabela's Survival: Shadows of Katmai] [PS2] [0.39] 4942. Action. Eidos Interactive. Mais vendido: 0.39.
+[Blood Omen: Legacy of Kain] [PSP] [0.03] 14677. Adventure. Yeti. Mais vendido: 0.03.
+[Blades of Time] [PS2] [0.09] 10974. Shooter. Eidos Interactive. Mais vendido: 0.09.
+[Batman: Arkham Asylum] [PS] [0.27] 6441. Sports. Tecmo Koei. Mais vendido: 0.27.
+[Agatha Christie: The ABC Murders] [PS3] [0.25] 6726. Action. Sega. Mais vendido: 0.25.
