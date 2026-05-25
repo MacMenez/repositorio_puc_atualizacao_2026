@@ -1,8 +1,10 @@
 
 import java.util.ArrayList;
 
+import javax.swing.Action;
+
 public class Jogo {
-    private int rank;
+   private int rank;
    private String nome_jogo;
    private String plataforma;
    private int ano;
@@ -148,7 +150,7 @@ public class Jogo {
 
          lista_clone.add(clone_jogo);
       }
-      return lista_clone; // Retorna a lista clonada
+      return lista_clone; 
    }
 
    public void ler(String valor_lido) {
@@ -167,12 +169,17 @@ public class Jogo {
       this.Vendas_Global = Double.parseDouble(atributo[10]);
    }
 
+   public void listar(ArrayList<Jogo> vetor_jogo) {
+      for (int i = 0; i < vetor_jogo.size(); i++) {
+         vetor_jogo.get(i).imprimir();
+      }
+   }
    public void imprimir() {
       MyIO.println(toString());
    }
 
    @Override
    public String toString() {
-      return editora + ". " + nome_jogo + ". " + ano + ". Vendas global: " + Vendas_Global + ".  ";
+      return "[" + nome_jogo + "] [" + plataforma + "] [" + Vendas_Global + "] " + rank + ". " + genero + ". " + editora + ". Mais vendido: " + Vendas_Global + ".";
    }
 }
