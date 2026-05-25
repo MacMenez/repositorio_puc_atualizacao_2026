@@ -1,3 +1,4 @@
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class Lab_04 {
@@ -5,11 +6,8 @@ public class Lab_04 {
     public static void main(String[] args) {
 
         /* Parte 1 (Leitura de Arquivo): Armazenamento de informações contidos no arquivo jogos.txt em vetor */
-        
         // ArquivoTextoLeitura dados_jogos = new ArquivoTextoLeitura("C:\\Users\\1229176\\Downloads\\lab_04\\jogos.txt"); // Comentar para enviar
-        
         ArquivoTextoLeitura dados_jogos = new ArquivoTextoLeitura("jogos.txt"); // Comentar para enviar
-        
         // ArquivoTextoLeitura dados_jogos = new ArquivoTextoLeitura("/tmp/jogos.txt"); // Descomentar para enviar
 
         ArrayList<Jogo> lista_jogos = new ArrayList<>();
@@ -50,14 +48,27 @@ public class Lab_04 {
         selectionsortJogo= jogo.clone(lista_encontrados);
         insertionsortJogo = jogo.clone(lista_encontrados);
 
-        Bolha bubble_sort = new Bolha();
-        bubble_sort.sort(bubblesortJogo);
+        Bolha bubble_sort = new Bolha(bubblesortJogo);
+        bubble_sort.sort();
         
-        Insercao insertion_sort = new Insercao();
-        insertion_sort.sort(insertionsortJogo);
+        for (int i = 0; i < bubble_sort.getLista_jogos().size(); i++) {
+            bubble_sort.getLista_jogos().get(i).imprimir();
+        }
+        MyIO.println("## \tBUBBLE [COMPARACOES] [" + bubble_sort.getComparacao() + "] [MOVIMENTACOES] [" + bubble_sort.getMovimentacao() + "]");
 
-        Selecao selection_sort = new Selecao();
-        selection_sort.sort(selectionsortJogo);
+        Insercao insertion_sort = new Insercao(insertionsortJogo);
+        insertion_sort.sort();
+        for (int i = 0; i < insertion_sort.getLista_jogos().size(); i++) {
+            insertion_sort.getLista_jogos().get(i).imprimir();
+        }
+        MyIO.println("## INSERTION [COMPARACOES] [" + insertion_sort.getComparacao() + "] [MOVIMENTACOES] [" + insertion_sort.getComparacao() + "]");
+
+        Selecao selection_sort = new Selecao(selectionsortJogo);
+        selection_sort.sort();
+        for (int i = 0; i < insertion_sort.getLista_jogos().size(); i++) {
+            insertion_sort.getLista_jogos().get(i).imprimir();
+        }
+        // exibirOrdenacao(selection_sort);
     }
 
     public static ArrayList<Jogo> pesquisar(String linha, ArrayList<Jogo> lista_jogos, ArrayList<Jogo> lista_encontrados, int jogos_encontrados) {
