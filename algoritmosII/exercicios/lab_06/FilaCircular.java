@@ -3,24 +3,34 @@ public class FilaCircular {
     private int primeiro;
     private int ultimo;
     private int tamanho;
+    private double somaVendasGlobal;
 
     public FilaCircular() {
         this(60);
     }
 
     public FilaCircular(int capacidade) {
-        array = new Jogo[capacidade];
-        primeiro = 0;
-        ultimo = 0;
-        tamanho = 0;
+        array = new Jogo[capacidade + 1];
+        primeiro = ultimo = tamanho = 0;
+        somaVendasGlobal = 0;
+    }
+
+    public void mostrar() {
+        int pos = 1;
+        for (int i = primeiro; i != ultimo; i++) {
+            System.out.println("[" + pos + "] " + array[i].toString());
+            i = (i + 1) % array.length;
+            pos++;
+        }
     }
 
     public void enfileirar(Jogo jogo) throws Exception {
-        if (tamanho == array.length) {
-            throw new Exception("Erro: fila cheia");
+        if (((ultimo + 1) % array.length) == primeiro) {
+            desenfileirar();
         }
-        array[ultimo] = jogo;
+        array[ultimo] = jogo.clone();
         ultimo = (ultimo + 1) % array.length;
+        somaVendasGlobal += jogo.getVendas_Global();
         tamanho++;
     }
 
@@ -30,15 +40,13 @@ public class FilaCircular {
         }
         Jogo jogo = array[primeiro];
         primeiro = (primeiro + 1) % array.length;
+        somaVendasGlobal -= jogo.getVendas_Global();
         tamanho--;
         return jogo;
     }
 
-    public Jogo primeiro() throws Exception {
-        if (tamanho == 0) {
-            throw new Exception("Erro: fila vazia");
-        }
-        return array[primeiro];
+    public double obterSomaVendasGlobal() {
+        return (int) Math.round(somaVendasGlobal);
     }
 
     public boolean isEmpty() {
@@ -50,13 +58,8 @@ public class FilaCircular {
     }
 
     public int size() {
-        return tamanho;
+        return (ultimo - primeiro + array.length) % array.length;
     }
 
-    public void mostrar() {
-        for (int i = 0; i < tamanho; i++) {
-            int index = (primeiro + i) % array.length;
-            System.out.println(array[index].getNome_jogo());
-        }
-    }
+    
 }
