@@ -146,7 +146,9 @@ Legenda:
 * [x] **Filosofia: Antropologia e Ética**[🔗](#)
 * [x] **Filosofia: Razão e Modernidade**[🔗](#)
 * [x] **Ciências do Ambiente**[🔗](#)
-* 🚧 **Computadores e Sociedade**[🔗](#)
+* [x] **Computadores e Sociedade**[🔗](#)
+* [x] **Cultura Religiosa: Fenômeno Religioso**[🔗](#)
+* ⏳ **Cultura Religiosa: Fenômeno Religioso**[🔗](#)
 
 ---
 
